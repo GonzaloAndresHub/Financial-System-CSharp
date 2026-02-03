@@ -215,7 +215,7 @@ public class FinancieroSys
                                 Console.WriteLine("Ingrese la tasa de interés anual (%): ");
                                 double tasaAnualHipotecaria = double.Parse(Console.ReadLine()) / 100;
 
-                                // 👉 GUARDAR datos del crédito hipotecario
+                                // GUARDAR datos del crédito hipotecario
                                 montoHipotecarioGuardado = montoHipotecario;
                                 plazoMesesHipotecarioGuardado = plazoMeses;
                                 tasaHipotecariaGuardada = (decimal)tasaAnualHipotecaria;
