@@ -1,0 +1,14 @@
+C:\Users\gonza\Desktop\ProyectoC#\ProyectoCSharp\bin\Debug\net10.0\ProyectoCSharp.exe
+C:\Users\gonza\Desktop\ProyectoC#\ProyectoCSharp\bin\Debug\net10.0\ProyectoCSharp.deps.json
+C:\Users\gonza\Desktop\ProyectoC#\ProyectoCSharp\bin\Debug\net10.0\ProyectoCSharp.runtimeconfig.json
+C:\Users\gonza\Desktop\ProyectoC#\ProyectoCSharp\bin\Debug\net10.0\ProyectoCSharp.dll
+C:\Users\gonza\Desktop\ProyectoC#\ProyectoCSharp\bin\Debug\net10.0\ProyectoCSharp.pdb
+C:\Users\gonza\Desktop\ProyectoC#\ProyectoCSharp\obj\Debug\net10.0\ProyectoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\Desktop\ProyectoC#\ProyectoCSharp\obj\Debug\net10.0\ProyectoCSharp.AssemblyInfoInputs.cache
+C:\Users\gonza\Desktop\ProyectoC#\ProyectoCSharp\obj\Debug\net10.0\ProyectoCSharp.AssemblyInfo.cs
+C:\Users\gonza\Desktop\ProyectoC#\ProyectoCSharp\obj\Debug\net10.0\ProyectoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Desktop\ProyectoC#\ProyectoCSharp\obj\Debug\net10.0\ProyectoCSharp.dll
+C:\Users\gonza\Desktop\ProyectoC#\ProyectoCSharp\obj\Debug\net10.0\refint\ProyectoCSharp.dll
+C:\Users\gonza\Desktop\ProyectoC#\ProyectoCSharp\obj\Debug\net10.0\ProyectoCSharp.pdb
+C:\Users\gonza\Desktop\ProyectoC#\ProyectoCSharp\obj\Debug\net10.0\ProyectoCSharp.genruntimeconfig.cache
+C:\Users\gonza\Desktop\ProyectoC#\ProyectoCSharp\obj\Debug\net10.0\ref\ProyectoCSharp.dll
